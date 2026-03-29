@@ -1,6 +1,10 @@
 # 🎓 YouTube Learning Assistant
 
+📝 Description
 AI-powered YouTube Learning Assistant that converts videos into structured notes, topics, and MCQs with multi-language support.
+
+🌐 Website
+https://youtube-learning-assistant-2jvhotfinqoqyvcfpc76rg.streamlit.app/
 
 ## ✨ Features
 - 🎥 Supports long YouTube videos (3+ hours)
@@ -10,7 +14,6 @@ AI-powered YouTube Learning Assistant that converts videos into structured notes
 - ⚡ Chunk-based processing to avoid token limits
 
 ## 🧠 How it Works
-
 1. Extract transcript from YouTube
 2. Detect language automatically
 3. Split into chunks
